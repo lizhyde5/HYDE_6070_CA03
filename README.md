@@ -3,7 +3,7 @@
 
 ## Dataset
 
-The data is from the census Bureau and represents salaries of people along with seven demographic variables. The variables have been transformed into discrete categories. 
+The data is from the Census Bureau and represents salaries of people along with seven demographic variables. The variables have been transformed into discrete categories. 
 
 Target Classes: (0 = '<=50K' , 1 = '>50K')
 
